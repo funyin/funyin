@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A Flutter Streaming App
+- 🔭 I’m currently working on ... A Movie Streaming App
 - 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... Flutter
 - 💬 Ask me about ... Flutter
