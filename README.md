@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here is what you should know about me:
 
 - 🔭 I’m currently working on ... A Movie Streaming App
 - 🌱 I’m currently learning ... Typescript
