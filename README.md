@@ -9,3 +9,6 @@ Here is what you should know about me:
 - 📫 How to reach me: ... funyin.kash@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love shawarma
+
+
+<image width=60% src="https://wakatime.com/share/@funyin/44e44808-4e13-4b46-a49d-28438843ab3f.svg"></image>
