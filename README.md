@@ -2,10 +2,10 @@
 
 Here is what you should know about me:
 
-- 🔭 I’m currently working on ... A Space standup bot
-- 🌱 I’m currently learning ... Jetpack Compose
-- 👯 I’m looking to collaborate on ... Flutter
-- 💬 Ask me about ... Flutter
+- 🔭 I’m currently working on ... Jetpack Compose and Ktor
+- 🌱 I’m currently learning ... iOS Development and Swift UI and Ktor and Kotlin Multiplatform Mobile
+- 👯 I’m looking to collaborate on ... Android Projects and Jetpack compose packages
+- 💬 Ask me about ... Android
 - 📫 How to reach me: ... funyin.kash@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love shawarma
