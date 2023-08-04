@@ -7,7 +7,6 @@ Here is what you should know about me:
 - 👯 I’m looking to collaborate on ... Android Projects and Jetpack compose packages
 - 💬 Ask me about ... Android
 - 📫 How to reach me: ... funyin.kash@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love shawarma
 
 
