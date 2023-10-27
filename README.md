@@ -9,10 +9,6 @@ Here is what you should know about me:
 - 📫 How to reach me: ... funyin.kash@gmail.com
 - ⚡ Fun fact: ... I love shawarma
 
-
-## My Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=funyin&theme=dracula&hide_border=true)
-
 ## Stats📈
 <p align="left">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=funyin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="funyin" /> 
