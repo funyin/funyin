@@ -15,3 +15,6 @@ Here is what you should know about me:
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=funyin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="funyin" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=funyin&theme=highcontrast&hide_border=true" alt="funyin" />
 </p>
+
+
+![image](https://wakatime.com/share/@funyin/ca34231b-88f2-4fa6-9fdb-b7f8173e5cc5.png)
